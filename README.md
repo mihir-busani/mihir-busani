@@ -1,6 +1,8 @@
-##Hi there 
-##I’m currently learning Computer Science!
-##Student
+## Hi there  
+
+I’m currently learning Computer Science!  
+
+<sub>Student</sub>
 
 <!--
 **mihir-busani/mihir-busani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
